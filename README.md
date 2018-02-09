@@ -2,7 +2,7 @@
 
 A iPython notebook to track and quantify GUVs.
 
-[test](./logo.png)
+![Logo](./logo.png)
 
 Input: GUV movie
 Processing: Track the GUV for every frame and every channel
