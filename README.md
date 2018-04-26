@@ -1,6 +1,6 @@
 # GUV Tracking Quantification
 
-A iPython notebook to track and quantify GUVs.
+A Jupyter notebook to track and quantify GUVs.
 
 ![Logo](./logo.png)
 
